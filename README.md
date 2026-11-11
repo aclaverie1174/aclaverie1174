@@ -1,4 +1,4 @@
-## Hi there 👋
+Hello my name is Andres Claverie I am an aspiring electrical engineering student at the University of Florida. I hope to grow and expand this Github account with the many projects that I hope to work on in the future. Reach me at a.claverieyepez@ufl.edu.
 
 <!--
 **aclaverie1174/aclaverie1174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
